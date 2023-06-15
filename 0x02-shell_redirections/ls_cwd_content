@@ -1,0 +1,13 @@
+total 36K
+drwxr-xr-x 2 root root 230 Jun 15 10:22 .
+drwxr-xr-x 6 root root 104 Jun 15 08:58 ..
+-rwxr-xr-x 1 root root  38 Jun 15 09:08 0-hello_world.sh
+-rwxr-xr-x 1 root root  26 Jun 15 09:14 1-confused_smiley.sh
+-rwxr-xr-x 1 root root  29 Jun 15 09:16 2-hellofile.sh
+-rwxr-xr-x 1 root root  97 Jun 15 09:20 3-twofiles.sh
+-rwxr-xr-x 1 root root  71 Jun 15 09:23 4-lastlines.sh
+-rwxr-xr-x 1 root root  73 Jun 15 09:25 5-firstlines.sh
+-rwxr-xr-x 1 root root  65 Jun 15 09:34 6-third_line.sh
+-rwxr-xr-x 1 root root  87 Jun 15 10:19 7-file.sh
+-rwxr-xr-x 1 root root  38 Jun 15 10:21 8-cwd_state.sh
+-rw-r--r-- 1 root root   0 Jun 15 10:22 ls_cwd_content
